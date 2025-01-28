@@ -22,7 +22,3 @@ To run this project, you will need:
 ## Contributing
 
 Feel free to fork this repository and submit pull requests if you would like to contribute enhancements or bug fixes. All contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
